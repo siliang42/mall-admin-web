@@ -22,7 +22,8 @@
           <div class="out-border">
             <div class="layout-title">学习教程</div>
             <div class="color-main address-content">
-              <a href="https://github.com/macrozheng/mall-learning">mall-learning</a>
+              <a target="_blank" href="https://macrozheng.github.io/mall-learning/#/README"
+              title="https://github.com/macrozheng/mall-learning">mall-learning</a>
             </div>
           </div>
         </el-col>
@@ -63,10 +64,10 @@
     </div>
     <el-card class="mine-layout">
       <div style="text-align: center">
-        <img width="150px" height="150px" src="http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/banner/qrcode_for_macrozheng_258.jpg">
+        <img width="150px" height="150px" src="//www.baidu.com/img/bd_logo1.png?where=super">
       </div>
-      <div style="text-align: center">mall全套学习教程连载中！</div>
-      <div style="text-align: center;margin-top: 5px"><span class="color-main">关注公号</span>，第一时间获取。</div>
+      <div style="text-align: center">mall</div>
+      <div style="text-align: center;margin-top: 5px"><span class="color-main">关注</span>，第一时间</div>
     </el-card>
     <div class="un-handle-layout">
       <div class="layout-title">待处理事务</div>

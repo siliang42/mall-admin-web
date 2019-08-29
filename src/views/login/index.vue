@@ -61,8 +61,8 @@
       :center="true"
       width="30%">
       <div style="text-align: center">
-        <span>mall全套学习教程连载中<span class="color-main font-medium">关注公众号</span>第一时间获取</span>
-        <img src="http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/banner/qrcode_for_macrozheng_258.jpg" width="150" height="150" style="margin-top: 10px">
+        <span>mall<span class="color-main font-medium">关注</span>第一时间</span>
+        <img src="获取。" width="150" height="150" style="margin-top: 10px">
       </div>
       <span slot="footer" class="dialog-footer">
     <el-button type="primary" @click="dialogConfirm">确定</el-button>
